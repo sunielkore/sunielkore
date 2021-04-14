@@ -9,9 +9,8 @@
 
 - 💬 Ask me about backend development **Java and related technologies**
 
-- 📫 How to reach me **https://www.linkedin.com/in/sunilkore/**
+- 📫 How to reach me **https://www.linkedin.com/in/sunilkore**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sunilkore/](https://www.linkedin.com/in/sunilkore/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
